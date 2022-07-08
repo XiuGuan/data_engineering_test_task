@@ -56,4 +56,3 @@ You can assume that:
 _Stretch goals_
 
 - We want to add an automated alerting system on top of our data warehouse that will automatically send a payment reminder email to our Client if any of their invoices are due and they haven't paid yet. Describe how you would implement this.
-# data_engineering_test_task
